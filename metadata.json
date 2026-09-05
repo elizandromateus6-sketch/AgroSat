@@ -1,0 +1,6 @@
+{
+  "name": "AgroSat",
+  "description": "Plataforma digital de monitoramento agrícola por satélite, NDVI, IA e educação agrícola para Angola e África.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
