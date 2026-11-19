@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="100%" height="100%">
+  <defs>
+    <radialGradient id="greenBg" cx="30%" cy="25%" r="85%" fx="20%" fy="15%">
+      <stop offset="0%" stop-color="#238038" />
+      <stop offset="45%" stop-color="#165B27" />
+      <stop offset="85%" stop-color="#0E3D19" />
+      <stop offset="100%" stop-color="#082810" />
+    </radialGradient>
+  </defs>
+  <!-- Background -->
+  <rect width="500" height="500" fill="url(#greenBg)" />
+  
+  <!-- Silhouette Person: Head -->
+  <circle cx="250" cy="195" r="108" fill="#000000" />
+  
+  <!-- Silhouette Person: Shoulders / Body -->
+  <path d="M 52 500 C 52 385, 140 320, 250 320 C 360 320, 448 385, 448 500 Z" fill="#000000" />
+</svg>
